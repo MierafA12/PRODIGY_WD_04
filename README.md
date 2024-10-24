@@ -35,11 +35,7 @@ You may also see any lint errors in the console.
         contact-css)
 
 
- there is also backend side for the contact page it contain 3 files and packages.
- backend ,
-       (contactModel.js)
-       (contactRoute.js)
-       (server.js)
+
 
 
 
